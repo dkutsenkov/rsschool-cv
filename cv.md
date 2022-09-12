@@ -37,9 +37,9 @@ function maps(x){
 ***
 
 ## Education
-* Gomel college of Mechanical Engineering
-* Republic college of olympic reserve 
-* Francisk Skorina Gomel State University (Magitry)
+* [Gomel college of Mechanical Engineering](http://ggak.by/)
+* [Republic college of olympic reserve](https://rguor.by/) 
+* [Francisk Skorina Gomel State University (Magitry)](https://gsu.by)
 
 ***
 
